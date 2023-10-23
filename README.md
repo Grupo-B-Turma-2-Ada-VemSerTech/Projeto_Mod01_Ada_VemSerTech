@@ -1,15 +1,5 @@
 # Projeto: Sistema de Gestão de Restaurantes
 
-## Informações de entrega do projeto
-- O projeto deve ser realizado em grupos de até 5 membros
-- Informações sobre a entrega:
-    - Prazo até o dia 27/10/2023 às 23:59
-    - Deve ser realizar para o e-mail do professor: hermeto.lucas@gmail.com ou via plataforma LMS
-    - Formatos aceitos:
-        - Códigos python .py ou .ipynb com comentários claros de cada funcionalidade
-        - Arquivo .zip com códigos .py ou .ipynb com README.md explicando como executar o código
-        - Link do Github com acesso público ou liberado para o professor
-
 ## Apresentação do Projeto
 
 O projeto "Sistema de Gestão de Restaurantes" é uma aplicação em Python que permite a gestão de restaurantes em uma plataforma. Com esta ferramenta, os usuários podem adicionar, editar ou remover restaurantes, bem como gerenciar os menus de cada restaurante, incluindo o nome dos alimentos e seus preços. Este projeto foi desenvolvido com o objetivo de fornecer aos alunos um caso de uso real e prático, permitindo-lhes aplicar os conceitos básicos de programação que aprenderam, como variáveis, estruturas condicionais, estruturas de repetição, listas e funções.
