@@ -14,7 +14,7 @@ O sistema oferece as seguintes funcionalidades:
    - Remover um restaurante da plataforma.
 
 
-     ![Fluxograma de Restaurante](fluxograma_restaurante.jpg)
+   ![Fluxograma de Restaurante](fluxograma_restaurante.jpg)
 
 2. **Gestão de Cardápio:**
    - Para cada restaurante, os usuários podem adicionar, editar ou remover itens do cardápio.
