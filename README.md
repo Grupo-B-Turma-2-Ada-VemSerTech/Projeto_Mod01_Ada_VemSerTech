@@ -16,6 +16,7 @@ O sistema oferece as seguintes funcionalidades:
 2. **Gestão de Cardápio:**
    - Para cada restaurante, os usuários podem adicionar, editar ou remover itens do cardápio.
    - Cada item do cardápio possui um nome e um preço.
+(fluxograma_cardapio.jpg)
 
 3. **Apresentação de Informações:**
    - Os usuários podem visualizar a lista de todos os restaurantes registrados na plataforma, incluindo seus detalhes.
