@@ -28,20 +28,30 @@ O sistema oferece as seguintes funcionalidades:
    - Para cada restaurante, é possível visualizar o cardápio completo, listando os alimentos disponíveis e seus preços.
 
 4. **Funcionalidades Adicionais (Opcionais):**
-   - Os alunos são encorajados a aprimorar o projeto com funcionalidades adicionais, como a capacidade de buscar restaurantes por nome ou endereço, calcular o tempo médio de entrega, ou criar uma interface de linha de comando mais amigável.
+   - Adicionada a Opção de Resumo, em Gerenciamento de Restaurante, onde é possível que usuário tenha acesso as principais informações do Restaurantes numa visão mais aconchegante
+   - Além da opção de Encerrar o programa, inserimos uma função na qual volta o código para uma função principal, onde insistimos ao usuário que não encerre o sistema, permaneça mais conectado e alimentando com os dados inseridos.
+
 
 ## Conclusão do Projeto com os Conceitos Principais Aplicados
 
-Neste projeto, os alunos terão a oportunidade de aplicar os seguintes conceitos principais de programação em Python:
+Neste projeto, os alunos tivemos a oportunidade de aplicar os seguintes conceitos principais de programação em Python:
 
-- **Variáveis:** Os alunos usarão variáveis para armazenar informações sobre restaurantes, seus cardápios e outros dados relevantes.
+- **Variáveis:** para armazenar informações sobre restaurantes, seus cardápios e outros dados relevantes.
 
 - **Estruturas Condicionais:** Serão necessárias estruturas condicionais para permitir a tomada de decisões, como verificar se um restaurante ou item do cardápio existe ou se o usuário deseja realizar ações específicas.
 
-- **Estruturas de Repetição:** Para facilitar a gestão de múltiplos restaurantes e itens de cardápio, os alunos usarão estruturas de repetição para percorrer listas e realizar ações em lote.
+- **Estruturas de Repetição:** Para facilitar a gestão de múltiplos restaurantes e itens de cardápio, com estruturas de repetição para percorrer listas e realizar ações em lote.
 
-- **Listas:** As informações sobre restaurantes e seus cardápios serão armazenadas em listas, permitindo a manipulação e organização dos dados.
+- **Listas:** As informações sobre restaurantes e seus cardápios são armazenadas em listas, permitindo a manipulação e organização dos dados.
 
-- **Funções:** Os alunos criarão funções para organizar o código e torná-lo mais modular e reutilizável, como funções para adicionar restaurantes, editar cardápios, entre outras.
+- **Funções:** Criadas 12 (doze) funções para organizar o código e torná-lo mais modular e reutilizável, como funções para adicionar restaurantes, editar cardápios, entre outras.
 
-Este projeto oferece uma oportunidade prática para consolidar o aprendizado dos conceitos fundamentais de programação em Python. Além disso, os alunos podem expandir o projeto com funcionalidades adicionais, como a integração de um sistema de pedidos online, cálculos de custos ou a implementação de uma interface gráfica para uma experiência mais interativa. O resultado final é um projeto que pode ser destacado em seus portfólios, demonstrando suas habilidades na criação de aplicativos Python do mundo real.
+Este projeto ofereceu uma oportunidade prática para consolidar o aprendizado dos conceitos fundamentais de programação em Python. Além disso, pudemos expandir o projeto com funcionalidades adicionais. O resultado final é um projeto que pode ser destacado no portfólios, demonstrando habilidades na criação de aplicativos Python do mundo real.
+
+## Autores do Projeto 
+Turma Vem Ser Tech - Dados | 1101
+Adriely
+Amanda R. de Souza
+Cristiane
+Letícia Santos
+Ricardo
