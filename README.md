@@ -49,9 +49,9 @@ Neste projeto, os alunos tivemos a oportunidade de aplicar os seguintes conceito
 Este projeto ofereceu uma oportunidade prática para consolidar o aprendizado dos conceitos fundamentais de programação em Python. Além disso, pudemos expandir o projeto com funcionalidades adicionais. O resultado final é um projeto que pode ser destacado no portfólios, demonstrando habilidades na criação de aplicativos Python do mundo real.
 
 ## Autores do Projeto 
-Turma Vem Ser Tech - Dados | 1101
-Adriely
-Amanda R. de Souza
-Cristiane
-Letícia Santos
-Ricardo
+- Turma Vem Ser Tech - Dados | 1101
+- Adriely
+- Amanda R. de Souza
+- Cristiane
+- Letícia Santos
+- Ricardo
