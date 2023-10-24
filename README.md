@@ -17,7 +17,7 @@ O sistema oferece as seguintes funcionalidades:
    - Para cada restaurante, os usuários podem adicionar, editar ou remover itens do cardápio.
    - Cada item do cardápio possui um nome e um preço.
 
-![Fluxograma de Cardápio](https://github.com/rtmazzeo/projeto_ada1/blob/main/fluxograma_cardapio.jpg)
+![Fluxograma de Cardápio](fluxograma_cardapio.jpg)
 
 
 3. **Apresentação de Informações:**
