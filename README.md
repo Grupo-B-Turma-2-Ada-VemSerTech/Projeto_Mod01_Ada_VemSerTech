@@ -16,7 +16,7 @@ O sistema possui 12 funções que estão distribuidas para formatações, índic
 
    ![Fluxograma de Restaurante](fluxograma_restaurante.jpg)
    
-   O uso do FLuxograma mostra como trabalha a Função Gestão de Restaurante, com os respectivos comandos até que cliente solicite retorno ou saída.
+   O Fluxograma mostra como trabalha a Função Gestão de Restaurante, com os respectivos comandos até que cliente solicite retorno ou saída.
 
 3. **Gestão de Cardápio:**
    - Para cada restaurante, os usuários podem adicionar, editar ou remover itens do cardápio.
