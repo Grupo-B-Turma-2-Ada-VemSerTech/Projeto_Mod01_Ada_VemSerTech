@@ -15,6 +15,7 @@ O sistema possui 12 funções que estão distribuidas para formatações, índic
 
 
    ![Fluxograma de Restaurante](fluxograma_restaurante.jpg)
+   
    O uso do FLuxograma mostra como trabalha a Função Gestão de Restaurante, com os respectivos comandos até que cliente solicite retorno ou saída.
 
 3. **Gestão de Cardápio:**
@@ -22,13 +23,14 @@ O sistema possui 12 funções que estão distribuidas para formatações, índic
    - Cada item do cardápio possui um nome e um preço.
 
    ![Fluxograma de Cardápio](fluxograma_cardapio.jpg)
+   
    O FLuxograma mostra como funiona a Função Gestão de Cardápio, na qual está sinalizada como 2. O cliente pode escolher entre ir para Gestão de Restaurantes, Gestão de Cardápios ou Encerrar o Sistema.
 
-4. **Apresentação de Informações:**
+5. **Apresentação de Informações:**
    - Os usuários podem visualizar a lista de todos os restaurantes registrados na plataforma, incluindo seus detalhes.
    - Para cada restaurante, é possível visualizar o cardápio completo, listando os alimentos disponíveis e seus preços.
 
-5. **Funcionalidades Adicionais (Opcionais):**
+6. **Funcionalidades Adicionais (Opcionais):**
    - Adicionada a Opção de Resumo, em Gerenciamento de Restaurante, onde é possível que usuário tenha acesso as principais informações do Restaurantes numa visão mais aconchegante
    - Além da opção de Encerrar o programa, inserimos uma função na qual volta o código para uma função principal, onde insistimos ao usuário que não encerre o sistema, permaneça mais conectado e alimentando com os dados inseridos.
 
