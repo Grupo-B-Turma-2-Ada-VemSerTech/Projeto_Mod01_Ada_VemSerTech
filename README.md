@@ -33,7 +33,7 @@ O sistema possui 12 funções que estão distribuidas para formatações, índic
 6. **Funcionalidades Adicionais (Opcionais):**
    - Adicionada a Opção de Resumo, em Gerenciamento de Restaurante, onde é possível que usuário tenha acesso as principais informações do Restaurantes numa visão mais aconchegante
    - Além da opção de Encerrar o programa, inserimos uma função na qual volta o código para uma função principal, onde insistimos ao usuário que não encerre o sistema, permaneça mais conectado e alimentando com os dados inseridos.
-   - Para Leitura das imagens do Fluxograma, usamos os seguintes um sistema de cores para relação, onde: <sapn> style = 'color: yellow amarelo> </spam> = conexão de desenvolvimento, azul = conector curvado, retorna à função original, verde = sim, retorna ao indíce da função.
+   - Para Leitura das imagens do Fluxograma, usamos os seguintes um sistema de cores para relação, onde: <span style = 'color: yellow'> amarelo </span> = conexão de desenvolvimento, azul = conector curvado, retorna à função original, verde = sim, retorna ao indíce da função.
    -
 
 
