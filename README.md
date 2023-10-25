@@ -38,9 +38,6 @@ O sistema possui 12 funções que estão distribuidas para formatações, índic
    - <span style="color: yellow;">amarelo</span> = conexão de desenvolvimento,
    - <span style="color: blue;">azul</span> = não, retorna à função original,
    - <span style="color: green;">verde</span> = sim, retorna ao índice da função.
-<font color="yellow">amarelo</font> = conexão de desenvolvimento,
-<font color="blue">azul</font> = não, retorna à função original,
-<font color="green">verde</font> = sim, retorna ao índice da função.
 
 ## Conclusão do Projeto com os Conceitos Principais Aplicados
 
