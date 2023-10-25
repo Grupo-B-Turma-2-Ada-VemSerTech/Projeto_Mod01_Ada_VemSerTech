@@ -6,28 +6,29 @@ O projeto "Sistema de Gestão de Restaurantes" é uma aplicação em Python que 
 
 ## Funcionalidades do Projeto
 
-O sistema oferece as seguintes funcionalidades:
+O sistema possui 12 funções que estão distribuidas para formatações, índices, validações, fazendo com que se conciliem em duas funções principais, que são as seguintes: 
 
 1. **Gestão de Restaurantes:**
-   - Adicionar um restaurante com informações como nome, endereço, telefone e tempo de entrega.
-   - Editar informações de um restaurante existente.
+   - Adiciona um restaurante com informações como nome, endereço, telefone e tempo de entrega.
+   - Edita informações de um restaurante existente.
    - Remover um restaurante da plataforma.
 
 
    ![Fluxograma de Restaurante](fluxograma_restaurante.jpg)
+   O uso do FLuxograma mostra como trabalha a Função Gestão de Restaurante, com os respectivos comandos até que cliente solicite retorno ou saída.
 
-2. **Gestão de Cardápio:**
+3. **Gestão de Cardápio:**
    - Para cada restaurante, os usuários podem adicionar, editar ou remover itens do cardápio.
    - Cada item do cardápio possui um nome e um preço.
 
    ![Fluxograma de Cardápio](fluxograma_cardapio.jpg)
+   O FLuxograma mostra como funiona a Função Gestão de Cardápio, na qual está sinalizada como 2. O cliente pode escolher entre ir para Gestão de Restaurantes, Gestão de Cardápios ou Encerrar o Sistema.
 
-
-3. **Apresentação de Informações:**
+4. **Apresentação de Informações:**
    - Os usuários podem visualizar a lista de todos os restaurantes registrados na plataforma, incluindo seus detalhes.
    - Para cada restaurante, é possível visualizar o cardápio completo, listando os alimentos disponíveis e seus preços.
 
-4. **Funcionalidades Adicionais (Opcionais):**
+5. **Funcionalidades Adicionais (Opcionais):**
    - Adicionada a Opção de Resumo, em Gerenciamento de Restaurante, onde é possível que usuário tenha acesso as principais informações do Restaurantes numa visão mais aconchegante
    - Além da opção de Encerrar o programa, inserimos uma função na qual volta o código para uma função principal, onde insistimos ao usuário que não encerre o sistema, permaneça mais conectado e alimentando com os dados inseridos.
 
@@ -44,14 +45,15 @@ Neste projeto, os alunos tivemos a oportunidade de aplicar os seguintes conceito
 
 - **Listas:** As informações sobre restaurantes e seus cardápios são armazenadas em listas, permitindo a manipulação e organização dos dados.
 
-- **Funções:** Criadas 12 (doze) funções para organizar o código e torná-lo mais modular e reutilizável, como funções para adicionar restaurantes, editar cardápios, entre outras.
+- **Funções:** Criadas para organizar o código e torná-lo mais modular e reutilizável, como funções para adicionar restaurantes/ cardápios, editar restaurantes/cardápios, entre outras.
 
-Este projeto ofereceu uma oportunidade prática para consolidar o aprendizado dos conceitos fundamentais de programação em Python. Além disso, pudemos expandir o projeto com funcionalidades adicionais. O resultado final é um projeto que pode ser destacado no portfólios, demonstrando habilidades na criação de aplicativos Python do mundo real.
+Este projeto ofereceu uma oportunidade prática para consolidar o aprendizado dos conceitos fundamentais de programação em Python. Além disso, pudemos expandir o projeto com funcionalidades adicionais. 
+O resultado final é um projeto que pode ser destacado no portfólios, demonstrando habilidades na criação de aplicativos Python do mundo real.
 
 ## Autores do Projeto 
 - Turma Vem Ser Tech - Dados | 1101
-- Adriely
+- Adriely Boller
 - Amanda R. de Souza
-- Cristiane
+- Cristiane Rabelo
 - Letícia Santos
-- Ricardo
+- Ricardo Mazzeo
