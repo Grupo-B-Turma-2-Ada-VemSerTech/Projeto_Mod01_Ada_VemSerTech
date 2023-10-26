@@ -6,7 +6,7 @@ O projeto "Sistema de Gestão de Restaurantes" é uma aplicação em Python que 
 
 ## Funcionalidades do Projeto
 
-O sistema possui 12 funções que estão distribuidas para formatações, índices, validações, fazendo com que se conciliem em duas funções principais, que são as seguintes: 
+O sistema possui 13 funções que estão distribuidas para formatações, índices, validações, fazendo com que se conciliem em duas funções principais, que são as seguintes: 
 
 1. **Gestão de Restaurantes:**
    - Adiciona um restaurante com informações como nome, endereço, telefone e tempo de entrega.
@@ -29,6 +29,7 @@ O sistema possui 12 funções que estão distribuidas para formatações, índic
 5. **Apresentação de Informações:**
    - Os usuários podem visualizar a lista de todos os restaurantes registrados na plataforma, incluindo seus detalhes.
    - Para cada restaurante, é possível visualizar o cardápio completo, listando os alimentos disponíveis e seus preços.
+   - Procuramos usaar a base de PEP8 do python, seja na nomenclatura de funções, ordenamento, procurando deixar um estilo de leitura fluído e com melhor entendimento.
 
 6. **Funcionalidades Adicionais (Opcionais):**
    - Adicionada a Opção de Resumo, em Gerenciamento de Restaurante, onde é possível que usuário tenha acesso as principais informações do Restaurantes numa visão mais aconchegante
@@ -38,6 +39,10 @@ O sistema possui 12 funções que estão distribuidas para formatações, índic
      <span style="color: yellow;"> amarelo </span> = conexão de desenvolvimento,
      <span style="color: blue;"> azul </span> = não, retorna à função original,
      <span style="color: green;"> verde </span> = sim, retorna ao índice da função.
+     <span style="color: yellow; background: black; padding: 2px;">amarelo</span> = conexão de desenvolvimento,
+<span style="color: blue; background: black; padding: 2px;">azul</span> = não, retorna à função original,
+<span style="color: green; background: black; padding: 2px;">verde</span> = sim, retorna ao índice da função.
+
 
 ## Conclusão do Projeto com os Conceitos Principais Aplicados
 
