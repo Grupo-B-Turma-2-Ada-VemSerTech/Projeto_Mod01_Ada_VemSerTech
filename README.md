@@ -59,7 +59,7 @@ O resultado final é um projeto que pode ser destacado no portfólios, demonstra
 ## Autores do Projeto 
 - Turma Vem Ser Tech - Dados | 1101
 - Adriely Boller
-- Amanda R. de Souza
+- Amanda Souza
 - Cristiane Rabelo
 - Letícia Santos
 - Ricardo Mazzeo
