@@ -22,7 +22,7 @@ O sistema possui 13 funções que estão distribuidas para formatações, índic
    - Para cada restaurante, os usuários podem adicionar, editar ou remover itens do cardápio.
    - Cada item do cardápio possui um nome e um preço.
 
-   ![Fluxograma de Cardápio](fluxograma_cardapio.jpg)
+   ![Fluxograma de Cardápio](gestao_cardapio.jpg)
    
    O FLuxograma mostra como funiona a Função Gestão de Cardápio, na qual está sinalizada como 2. O cliente pode escolher entre ir para Gestão de Restaurantes, Gestão de Cardápios ou Encerrar o Sistema.
 
