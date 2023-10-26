@@ -35,13 +35,22 @@ O sistema possui 13 funções que estão distribuidas para formatações, índic
    - Adicionada a Opção de Resumo, em Gerenciamento de Restaurante, onde é possível que usuário tenha acesso as principais informações do Restaurantes numa visão mais aconchegante
    - Além da opção de Encerrar o programa, inserimos uma função na qual volta o código para uma função principal, onde insistimos ao usuário que não encerre o sistema, permaneça mais conectado e alimentando com os dados inseridos.
 
-   - Para Leitura das imagens do Fluxograma, usamos os seguintes um sistema de cores para relação, onde: 
+   - Para Leitura das imagens do Fluxograma, usamos os seguintes um sistema de cores para relação, onde:
+     | Cor      | Significado                      |
+     | -------- | -------------------------------  |
+     | Amarelo  | Conexão de desenvolvimento       |
+     | Azul     | Não, retorna à função original   |
+     | Verde    | Sim, retorna ao índice da função |
+
      <span style="color: yellow;"> amarelo </span> = conexão de desenvolvimento,
      <span style="color: blue;"> azul </span> = não, retorna à função original,
      <span style="color: green;"> verde </span> = sim, retorna ao índice da função.
-     <span style="color: yellow; background: black; padding: 2px;">amarelo</span> = conexão de desenvolvimento,
-<span style="color: blue; background: black; padding: 2px;">azul</span> = não, retorna à função original,
-<span style="color: green; background: black; padding: 2px;">verde</span> = sim, retorna ao índice da função.
+
+
+     <span style="color: yellow;">Amarelo</span> = conexão de desenvolvimento,
+<span style="color: blue;">Azul</span> = não, retorna à função original,
+<span style="color: green;">Verde</span> = sim, retorna ao índice da função.
+
 
 
 ## Conclusão do Projeto com os Conceitos Principais Aplicados
