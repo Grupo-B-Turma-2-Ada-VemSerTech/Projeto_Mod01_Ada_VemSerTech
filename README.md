@@ -14,7 +14,7 @@ O sistema possui 13 funções que estão distribuidas para formatações, índic
    - Remover um restaurante da plataforma.
 
 
-   ![Fluxograma de Restaurante](fluxograma_restaurante.jpg)
+   ![Fluxograma de Restaurante](gestao_restaurante.jpg)
    
    O Fluxograma mostra como trabalha a Função Gestão de Restaurante, com os respectivos comandos até que cliente solicite retorno ou saída.
 
